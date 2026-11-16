@@ -3,8 +3,9 @@ function Contato(){
 <div>
 <h1> Contato</h1>
 <p>Esta contém os contatos.
-    celular :
-    telefone:
+    o telefone da empresa é 
+    celular :19996685325
+    telefone :34117070
 
 </p>
 
