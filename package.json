@@ -1,14 +1,13 @@
 {
   "name": "projeto-vite-react-tailwind-postcss",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "release": "git push origin main --tags gh release create -- generate -notes"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
